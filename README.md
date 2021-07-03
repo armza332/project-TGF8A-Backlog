@@ -1,3 +1,6 @@
+# link Backlog  
+https://script.google.com/macros/s/AKfycbw1rb_uin7BtK1MVuKMg6KWFqVL2X4yYzsMDa4sfRiPP-2awlb3KFMFpjv-feh9ttyr-g/exec  
+  
 # installation Guide  
 1.Open google App script  
 2.Click "Start Scripting"  
